@@ -1,6 +1,7 @@
 # ECE-470-project-update
 Group Members: Jianhan Ma (jianhan3) Boyang Zhou (Boyangz3)
 This repository is for the ECE 470 Robotics Project. In this project we planned to simuate a "cleaner" robot whic will clean the desk by sorting multiple kinds of stuffs on a messy desk and placing them to their reset areas. The simulation will be based on Coppelia 4.0.0.
+
 Project 1 Update:
 1. We have succesfully implemented a simulation of a UR5 robot arm. As the robot arm needs to detect and verify different kinds of stuffs (e.g. pens, cups, books,etc), we fixed a kinect camera on the gripper.
 2. We successfully make the robtarm move according to our command, and the camera works well.
