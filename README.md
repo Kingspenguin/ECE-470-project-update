@@ -17,4 +17,7 @@ Project 1 Update:
     L:Reset 
     Space: Save the image obtained by the camera. Path: /saveImg
 4. To run the program, lauch the remoteApi in Coppelia 4.0.0.by running update.ttt, and run the code in Update1.py
+Project 2 Update:
+1. We have implemented the algorithm to obtain the forward kinematics. Two dummies will be created based on the things we get.
+2. To run the program, lauch the remoteApi in Coppelia 4.0.0.by running update.ttt, and run the code in Update2.py
  
